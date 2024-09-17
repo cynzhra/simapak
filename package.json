@@ -1,0 +1,33 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "serve",
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^5.1.2",
+        "autoprefixer": "^10.4.20",
+        "laravel-vite-plugin": "^1.0.5",
+        "postcss": "^8.4.41",
+        "serve": "^11.2.0",
+        "tailwindcss": "^3.4.10",
+        "vite": "^5.4.2"
+    },
+    "dependencies": {
+        "@headlessui/vue": "^1.7.22",
+        "@heroicons/vue": "^2.1.5",
+        "@inertiajs/inertia": "^0.11.1",
+        "@inertiajs/inertia-vue3": "^0.6.0",
+        "@inertiajs/vue3": "^1.2.0",
+        "@tailwindcss/forms": "^0.5.8",
+        "flowbite": "^2.5.1",
+        "vue-multiselect": "^3.0.0"
+    },
+    "name": "vue-20-modal-component",
+    "version": "1.0.0",
+    "description": "Features used: component, prop passing, content insertion, transitions.",
+    "main": "index.html",
+    "keywords": [],
+    "license": "MIT"
+}
